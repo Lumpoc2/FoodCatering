@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.exe
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.deps.json
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.runtimeconfig.json
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.dll
+C:\Users\USER\source\repos\Catering\Catering\bin\Debug\netcoreapp3.1\Catering.pdb
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.Form1.resources
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.AssemblyInfo.cs
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.dll
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.pdb
+C:\Users\USER\source\repos\Catering\Catering\obj\Debug\netcoreapp3.1\Catering.genruntimeconfig.cache
